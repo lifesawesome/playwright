@@ -1,7 +1,6 @@
 # 🎭 Playwright Examples
 
 This repo is used to demonstrate various testing scenarios with [Playwright](https://playwright.dev/) 🎭 with Node.js.
-
 ## Run Playwright example tests
 
 ### Install dependencies
